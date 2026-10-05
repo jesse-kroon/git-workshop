@@ -23,7 +23,7 @@ Het eerste wat je moet doen, is je identiteit instellen. Hiermee kunnen andere m
 
 Clone eerst deze repository:
 
-    $ git clone https://github.com/kuahyeow/git-workshop.git
+    $ git clone https://github.com/jesse-kroon/git-workshop.git
 
 Je kunt het project eventueel op GitHub forken (je eigen kopie maken) en vervolgens je eigen repository clonen. De knop **Fork** staat rechtsboven in een GitHub-repository. Meer uitleg vind je [hier](https://help.github.com/articles/fork-a-repo/).
 
