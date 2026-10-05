@@ -18,9 +18,6 @@ Het eerste wat je moet doen, is je identiteit instellen. Hiermee kunnen andere m
 
     $ git config --global user.email your.email@example.com
 
-Het kan ook handig zijn om Git zo in te stellen dat je favoriete teksteditor wordt gebruikt.
-
-    $ git config --global core.editor emacs
 
 ## Je reis beginnen
 
